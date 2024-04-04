@@ -1,0 +1,26 @@
+.wrap {
+    margin: 0 0 50px 0;
+    font-size: 2rem;
+}
+
+.box {
+    font-size: 2rem;
+}
+
+input {
+    padding: 15px;
+}
+
+button {
+    padding: 15px;
+}
+
+.info {
+    background-color: rgb(255, 174, 174);
+    padding: 15px;
+}
+
+.h4 {
+    font-weight: 600;
+    color: red;
+}
